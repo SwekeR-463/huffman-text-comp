@@ -1,6 +1,10 @@
 # Huffman Al{Go}
 
-This is a Go implementation of the Huffman coding algorithm. It reads a text file, compresses the text using Huffman encoding, and then decompresses it back to the original text.
+This is Go implementation of the Huffman coding algorithm. It reads a text file, compresses the text using Huffman encoding, and then decompresses it back to the original text.
+
+## Algorithm
+
+![Screenshot 2024-12-10 182243](https://github.com/user-attachments/assets/3a6ac800-7f66-4c89-8d76-7f3ab101664a)
 
 ## Features
 - Build a Huffman tree based on character frequencies.
