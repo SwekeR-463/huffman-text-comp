@@ -1,4 +1,4 @@
-# Huffman Al{Go}
+# Huffman Al(Go)
 
 This is Go implementation of the Huffman coding algorithm. It reads a text file, compresses the text using Huffman encoding, and then decompresses it back to the original text.
 
