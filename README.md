@@ -27,7 +27,7 @@ This is Go implementation of the Huffman coding algorithm. It reads a text file,
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/huffman-go.git
+   git clone https://github.com/SwekeR-463/huffman-text-comp.git
    cd huffman-go
    ```
 
